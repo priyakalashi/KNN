@@ -1,2 +1,2 @@
 # KNN
-Implementing K -Nearest Nighbour 
+Implementing K -Nearest Neighbour 
